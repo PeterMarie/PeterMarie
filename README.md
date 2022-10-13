@@ -20,13 +20,13 @@ A cryptocurrency based reward protocol for gaming and other systems, based on us
 ---------------
 
 ### WHAT I'VE DONE
-- [Timer-S](https://github.com/PeterMarie/timer-s)
+- [Timer-S](https://github.com/PeterMarie/timer-s)  
 A cumulative web-based timer for recording the total time spent on any activities.
 
-- [Active Playhouse](https://github.com/PeterMarie/activeplayhouse)
+- [Active Playhouse](https://github.com/PeterMarie/activeplayhouse)  
 The official website of the African theatre troupe Active Playhouse
 
-- [Dive Mechanix](www.divemechanix.com)
+- [Dive Mechanix](www.divemechanix.com)  
 The official website of the deep-sea diving company Dive Mechanix
 
 ---------------
