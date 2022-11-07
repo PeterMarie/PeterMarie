@@ -13,8 +13,7 @@ Your typical creator who just wants to build products and services, and write bo
 - [EasyAccruals](www.github.com/petermarie/easyaccruals)  
 A web-based, customizable inventory and sales recording system for all scales of business, usable across globally distributed branches.
 
-<!-- - [Unnamed](www.github.com/petermarie/peemo)   -->
-- Unnamed  
+- [Peemo](www.github.com/petermarie/peemo)   
 A cryptocurrency based reward protocol for gaming and other systems, based on user stake and interactions with the protocol.
 
 ---------------
